@@ -1,0 +1,11 @@
+- Installed CMake
+- Visual Studio 2017 Community Edition (needed to jump through many hoops to download) with C++ options selected
+- vcpkg downloaded, and "integrated" printed the following afterwards:
+	CMake projects should use: "-DCMAKE_TOOLCHAIN_FILE=C:/code/vcpkg/scripts/buildsystems/vcpkg.cmake"
+- used vcpkg to install OpenCV, NLopt and Boost::asio packages as described inthe install guide:
+	.\vcpkg install opencv[ffmpeg]:x64-windows nlopt:x64-windows boost-asio:x64-windows
+	took about 20 mins
+- since I am using spinnaker SDK for pointgrey cameras I ran this:
+	cmake -G "Visual Studio 15 2017 Win64" -DCMAKE_TOOLCHAIN_FILE=C:/code/vcpkg/scripts/buildsystems/vcpkg.cmake -D PGR_USB3=ON -D PGR_DIR="C:\Program Files\Point Grey Research\Spinnaker" ..
+- then to build I used:
+	cmake --build . --config Release -j 4

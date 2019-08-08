@@ -1,0 +1,4369 @@
+[Seraph 8 Setup]
+Exists=1
+ Filter 1=0
+ Filter 2=0
+ Filter 3=0
+ Filter 4=0
+ HP=1
+ Aux 1=0
+ Aux 2=0
+ Aux 3=1
+ Aux 4=1
+ DAW Input=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+]
+HorzScrollPos=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Titlebar]
+OnTop=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Name]
+UserName=DAW OUT 1
+Source=1114112
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#000\Master]
+StereoLink=1
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 1
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Name]
+UserName=DAW OUT 1
+Source=1114112
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#001\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 2
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Name]
+UserName=DAW OUT 3
+Source=1245184
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#002\Master]
+StereoLink=1
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 3
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Name]
+UserName=DAW OUT 3
+Source=1245184
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#003\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 4
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Name]
+UserName=DAW OUT 5
+Source=1376256
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#004\Master]
+StereoLink=1
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 5
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Name]
+UserName=DAW OUT 5
+Source=1376256
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#005\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 6
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Name]
+UserName=DAW OUT 7
+Source=1507328
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#006\Master]
+StereoLink=1
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 7
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Sums\AuxStereo#00]
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Sums\Aux#00]
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Sums\Aux#01]
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Sums\Aux#02]
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Sums\Aux#03]
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Sums\Master]
+FaderLink=0
+LvPre=0
+VolumeLeft=-3
+VolumeRight=-3
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Name]
+UserName=DAW OUT 7
+Source=1507328
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#007\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 8
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Name]
+UserName=DAW OUT 9
+Source=1638400
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#008\Master]
+StereoLink=1
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 9
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Name]
+UserName=DAW OUT 9
+Source=1638400
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#009\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 10
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Name]
+UserName=DAW OUT 11
+Source=1769472
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#010\Master]
+StereoLink=1
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 11
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Name]
+UserName=DAW OUT 11
+Source=1769472
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#011\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 12
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Name]
+UserName=DAW OUT 13
+Source=1900544
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#012\Master]
+StereoLink=1
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 13
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Name]
+UserName=DAW OUT 13
+Source=1900544
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#013\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 14
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Name]
+UserName=DAW OUT 15
+Source=2031616
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#014\Master]
+StereoLink=1
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 15
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Name]
+UserName=DAW OUT 15
+Source=2031616
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#015\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 16
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Name]
+UserName=Analog 1
+Source=65536
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#016\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 17
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Name]
+UserName=Analog 2
+Source=131072
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#017\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 18
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Name]
+UserName=Analog 3
+Source=196608
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#018\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 19
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Name]
+UserName=Analog 4
+Source=262144
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#019\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 20
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Name]
+UserName=Analog 5
+Source=327680
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#020\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 21
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Name]
+UserName=DAW OUT 6
+Source=1441792
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#021\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 22
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Name]
+UserName=DAW OUT 7
+Source=1507328
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#022\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 23
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Name]
+UserName=DAW OUT 8
+Source=1572864
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#023\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 24
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Name]
+UserName=DAW OUT 9
+Source=1638400
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#024\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 25
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Name]
+UserName=DAW OUT 10
+Source=1703936
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#025\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 26
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Name]
+UserName=DAW OUT 11
+Source=1769472
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#026\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 27
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Name]
+UserName=DAW OUT 12
+Source=1835008
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#027\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 28
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Name]
+UserName=DAW OUT 13
+Source=1900544
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#028\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 29
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Name]
+UserName=DAW OUT 14
+Source=1966080
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#029\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 30
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Name]
+UserName=DAW OUT 15
+Source=2031616
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#030\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 31
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Name]
+UserName=DAW OUT 16
+Source=2097152
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#031\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 32
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Name]
+UserName=DAW OUT 17
+Source=2162688
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#032\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 33
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Name]
+UserName=DAW OUT 18
+Source=2228224
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#033\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 34
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Name]
+UserName=DAW OUT 19
+Source=2293760
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#034\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 35
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Name]
+UserName=DAW OUT 20
+Source=2359296
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#035\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 36
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Name]
+UserName=DAW OUT 21
+Source=2424832
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#036\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 37
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Name]
+UserName=DAW OUT 22
+Source=2490368
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#037\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 38
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Name]
+UserName=DAW OUT 23
+Source=2555904
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#038\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 39
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Name]
+UserName=DAW OUT 24
+Source=2621440
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#039\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 40
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Name]
+UserName=DAW OUT 25
+Source=2686976
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#040\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 41
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Name]
+UserName=DAW OUT 26
+Source=2752512
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#041\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 42
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Name]
+UserName=DAW OUT 27
+Source=2818048
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#042\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 43
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Name]
+UserName=DAW OUT 28
+Source=2883584
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#043\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 44
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Name]
+UserName=DAW OUT 29
+Source=2949120
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#044\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=-100
+LvPre=0
+InternalName=Channel 45
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Name]
+UserName=DAW OUT 30
+Source=3014656
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#045\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 46
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Name]
+UserName=DAW OUT 31
+Source=3080192
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#046\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 47
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Filter#00]
+On=0
+Freq=125
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Filter#01]
+On=0
+Freq=300
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Filter#02]
+On=0
+Freq=2500
+Gain=0
+Q=1.20000004768372
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Filter#03]
+On=0
+Freq=8000
+Gain=0
+Q=0.699999988079071
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\AuxStereo#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Aux#00]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Aux#01]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=-102
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Aux#02]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Aux#03]
+Mute=0
+Solo=0
+Pre=0
+EQ=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Name]
+UserName=DAW OUT 32
+Source=3145728
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Gain]
+Mute=0
+Inv=0
+Volume=0
+
+[Seraph 8 Setup\CMALL\Mixer 1: Seraph 8+\Chn#047\Master]
+StereoLink=0
+Mute=0
+Solo=0
+EQ=0
+Pan=100
+LvPre=0
+InternalName=Channel 48
+Volume=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+]
+HorzScrollPos=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Titlebar]
+OnTop=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#000\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 1
+StereoLink=0
+Source=65536
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#000\Output]
+Volume=0
+Pre=0
+Source=65536
+Mute=0
+EQ=0
+UserName=Analog 1
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#001\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 2
+StereoLink=0
+Source=65537
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#001\Output]
+Volume=0
+Pre=0
+Source=65538
+Mute=0
+EQ=0
+UserName=Analog 2
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#002\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 3
+StereoLink=0
+Source=65538
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#002\Output]
+Volume=0
+Pre=0
+Source=65540
+Mute=0
+EQ=0
+UserName=Analog 3
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#003\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 4
+StereoLink=0
+Source=65539
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#003\Output]
+Volume=0
+Pre=0
+Source=65542
+Mute=0
+EQ=0
+UserName=Analog 4
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#004\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 5
+StereoLink=0
+Source=65540
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#004\Output]
+Volume=0
+Pre=0
+Source=65544
+Mute=0
+EQ=0
+UserName=Analog 5
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#005\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 6
+StereoLink=0
+Source=65541
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#005\Output]
+Volume=0
+Pre=0
+Source=65546
+Mute=0
+EQ=0
+UserName=Analog 6
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#006\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 7
+StereoLink=0
+Source=65542
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#006\Output]
+Volume=0
+Pre=0
+Source=65548
+Mute=0
+EQ=0
+UserName=Analog 7
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#007\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 8
+StereoLink=0
+Source=65543
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#007\Output]
+Volume=0
+Pre=0
+Source=65550
+Mute=0
+EQ=0
+UserName=Analog 8
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#008\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 9
+StereoLink=0
+Source=65544
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#008\Output]
+Volume=0
+Pre=0
+Source=65560
+Mute=0
+EQ=0
+UserName=TDM 1
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#009\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 10
+StereoLink=0
+Source=65545
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#009\Output]
+Volume=0
+Pre=0
+Source=65561
+Mute=0
+EQ=0
+UserName=TDM 2
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#010\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 11
+StereoLink=0
+Source=65546
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#010\Output]
+Volume=0
+Pre=0
+Source=65562
+Mute=0
+EQ=0
+UserName=TDM 3
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#011\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 12
+StereoLink=0
+Source=65547
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#011\Output]
+Volume=0
+Pre=0
+Source=65563
+Mute=0
+EQ=0
+UserName=TDM 4
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#012\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 13
+StereoLink=0
+Source=65548
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#012\Output]
+Volume=0
+Pre=0
+Source=65564
+Mute=0
+EQ=0
+UserName=TDM 5
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#013\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 14
+StereoLink=0
+Source=65549
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#013\Output]
+Volume=0
+Pre=0
+Source=65565
+Mute=0
+EQ=0
+UserName=TDM 6
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#014\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 15
+StereoLink=0
+Source=65550
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#014\Output]
+Volume=0
+Pre=0
+Source=65566
+Mute=0
+EQ=0
+UserName=TDM 7
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#015\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 16
+StereoLink=0
+Source=65551
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#015\Output]
+Volume=0
+Pre=0
+Source=65567
+Mute=0
+EQ=0
+UserName=TDM 8
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#016\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 17
+StereoLink=0
+Source=65568
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#016\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#017\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 18
+StereoLink=0
+Source=65569
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#017\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#018\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 19
+StereoLink=0
+Source=65570
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#018\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#019\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 20
+StereoLink=0
+Source=65571
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#019\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#020\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 21
+StereoLink=0
+Source=65572
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#020\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#021\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 22
+StereoLink=0
+Source=65573
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#021\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#022\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 23
+StereoLink=0
+Source=65574
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#022\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#023\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 24
+StereoLink=0
+Source=65575
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#023\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#024\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 25
+StereoLink=0
+Source=65576
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#024\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#025\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 26
+StereoLink=0
+Source=65577
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#025\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#026\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 27
+StereoLink=0
+Source=65578
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#026\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#027\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 28
+StereoLink=0
+Source=65579
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#027\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#028\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 29
+StereoLink=0
+Source=65580
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#028\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#029\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 30
+StereoLink=0
+Source=65581
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#029\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#030\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 31
+StereoLink=0
+Source=65582
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#030\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#031\DawIN]
+EQ=0
+Volume=0
+UserName=DAW IN 32
+StereoLink=0
+Source=65583
+Mute=0
+
+[Seraph 8 Setup\CMALL\Routing 1: Seraph 8+\Rtg#031\Output]
+Volume=0
+Pre=0
+Source=0
+Mute=0
+EQ=0
+UserName=UserInput
+StereoLink=0
+TdmOnBus=0
+
+[Seraph 8 Setup\CM192\Titlebar]
+OnTop=0
+
