@@ -25,7 +25,7 @@ Triggering Settings to use the optically isolated input to trigger a frame acqui
 - Trig Sel = frame start
 - Trig mode = on
 - Trig act = rising
-- trig overlab = read out (not clear this is required)
+- Trig overlap = read out (not clear this is required)
 - Line 2 
 	- mode = output 
 	- exposure
